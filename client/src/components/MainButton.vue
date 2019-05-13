@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "../scss/_variables.scss";
+@import "../scss/_base.scss";
 button {
   border-radius: 30px;
   border: $primary-border-line;

@@ -5,7 +5,7 @@
 </template>
 
 <style lang="scss">
-@import "./scss/_variables.scss";
+@import "./scss/_base.scss";
 * {
   box-sizing: border-box;
   padding: 0;
