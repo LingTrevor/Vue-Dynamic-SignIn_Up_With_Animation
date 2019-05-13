@@ -19,7 +19,7 @@ button {
   color: $color-primary-green;
   font-size: 12px;
   font-weight: bolder;
-  padding: 12px 25px;
+  padding: 10px 25px;
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: transform 100ms ease-in;
