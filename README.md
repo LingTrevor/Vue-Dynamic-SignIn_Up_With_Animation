@@ -1,2 +1,2 @@
-# Vue-Dynamic-SignIn_Up_With_Animation
-Animated Dynamic Components.
+# Vue-Dynamic-SignIn_UP
+Switching Sign-in and Sign-up components dynamically with Dyncamic Components
